@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\Practica0001\obj\Debug\Practica0001.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Practica0001\obj\Debug\Practica0001.Form1.resources
+C:\Users\DELL\source\repos\Practica0001\obj\Debug\Practica0001.Properties.Resources.resources
+C:\Users\DELL\source\repos\Practica0001\obj\Debug\Practica0001.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Practica0001\obj\Debug\Practica0001.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Practica0001\bin\Debug\Practica0001.exe.config
+C:\Users\DELL\source\repos\Practica0001\bin\Debug\Practica0001.exe
+C:\Users\DELL\source\repos\Practica0001\bin\Debug\Practica0001.pdb
+C:\Users\DELL\source\repos\Practica0001\obj\Debug\Practica0001.exe
+C:\Users\DELL\source\repos\Practica0001\obj\Debug\Practica0001.pdb

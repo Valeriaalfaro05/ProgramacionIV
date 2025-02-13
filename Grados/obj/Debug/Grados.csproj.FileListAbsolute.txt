@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\Grados\bin\Debug\Grados.exe.config
+C:\Users\DELL\source\repos\Grados\bin\Debug\Grados.exe
+C:\Users\DELL\source\repos\Grados\bin\Debug\Grados.pdb
+C:\Users\DELL\source\repos\Grados\obj\Debug\Grados.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Grados\obj\Debug\Grados.Form1.resources
+C:\Users\DELL\source\repos\Grados\obj\Debug\Grados.Properties.Resources.resources
+C:\Users\DELL\source\repos\Grados\obj\Debug\Grados.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Grados\obj\Debug\Grados.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Grados\obj\Debug\Grados.exe
+C:\Users\DELL\source\repos\Grados\obj\Debug\Grados.pdb

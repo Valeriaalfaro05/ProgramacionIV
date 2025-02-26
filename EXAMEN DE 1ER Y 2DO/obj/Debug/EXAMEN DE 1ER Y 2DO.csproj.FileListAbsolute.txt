@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\EXAMEN DE 1ER Y 2DO\bin\Debug\EXAMEN DE 1ER Y 2DO.exe.config
+C:\Users\DELL\source\repos\EXAMEN DE 1ER Y 2DO\bin\Debug\EXAMEN DE 1ER Y 2DO.exe
+C:\Users\DELL\source\repos\EXAMEN DE 1ER Y 2DO\bin\Debug\EXAMEN DE 1ER Y 2DO.pdb
+C:\Users\DELL\source\repos\EXAMEN DE 1ER Y 2DO\obj\Debug\EXAMEN DE 1ER Y 2DO.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\EXAMEN DE 1ER Y 2DO\obj\Debug\EXAMEN_DE_1ER_Y_2DO.Form1.resources
+C:\Users\DELL\source\repos\EXAMEN DE 1ER Y 2DO\obj\Debug\EXAMEN_DE_1ER_Y_2DO.Properties.Resources.resources
+C:\Users\DELL\source\repos\EXAMEN DE 1ER Y 2DO\obj\Debug\EXAMEN DE 1ER Y 2DO.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\EXAMEN DE 1ER Y 2DO\obj\Debug\EXAMEN DE 1ER Y 2DO.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\EXAMEN DE 1ER Y 2DO\obj\Debug\EXAMEN DE 1ER Y 2DO.exe
+C:\Users\DELL\source\repos\EXAMEN DE 1ER Y 2DO\obj\Debug\EXAMEN DE 1ER Y 2DO.pdb

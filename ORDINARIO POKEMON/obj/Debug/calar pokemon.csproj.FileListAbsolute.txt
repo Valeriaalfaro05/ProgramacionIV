@@ -1,0 +1,22 @@
+C:\Users\DELL\source\repos\calar pokemon\bin\Debug\calar pokemon.exe.config
+C:\Users\DELL\source\repos\calar pokemon\bin\Debug\calar pokemon.exe
+C:\Users\DELL\source\repos\calar pokemon\bin\Debug\calar pokemon.pdb
+C:\Users\DELL\source\repos\calar pokemon\obj\Debug\calar pokemon.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\calar pokemon\obj\Debug\calar_pokemon.Form1.resources
+C:\Users\DELL\source\repos\calar pokemon\obj\Debug\calar_pokemon.Form2.resources
+C:\Users\DELL\source\repos\calar pokemon\obj\Debug\calar_pokemon.Properties.Resources.resources
+C:\Users\DELL\source\repos\calar pokemon\obj\Debug\calar pokemon.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\calar pokemon\obj\Debug\calar pokemon.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\calar pokemon\obj\Debug\calar pokemon.exe
+C:\Users\DELL\source\repos\calar pokemon\obj\Debug\calar pokemon.pdb
+C:\Users\DELL\OneDrive\Documentos\ORDINARIO POKEMON\bin\Debug\calar pokemon.exe.config
+C:\Users\DELL\OneDrive\Documentos\ORDINARIO POKEMON\bin\Debug\calar pokemon.exe
+C:\Users\DELL\OneDrive\Documentos\ORDINARIO POKEMON\bin\Debug\calar pokemon.pdb
+C:\Users\DELL\OneDrive\Documentos\ORDINARIO POKEMON\obj\Debug\calar pokemon.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Documentos\ORDINARIO POKEMON\obj\Debug\calar_pokemon.Form1.resources
+C:\Users\DELL\OneDrive\Documentos\ORDINARIO POKEMON\obj\Debug\calar_pokemon.Form2.resources
+C:\Users\DELL\OneDrive\Documentos\ORDINARIO POKEMON\obj\Debug\calar_pokemon.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Documentos\ORDINARIO POKEMON\obj\Debug\calar pokemon.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Documentos\ORDINARIO POKEMON\obj\Debug\calar pokemon.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Documentos\ORDINARIO POKEMON\obj\Debug\calar pokemon.exe
+C:\Users\DELL\OneDrive\Documentos\ORDINARIO POKEMON\obj\Debug\calar pokemon.pdb
